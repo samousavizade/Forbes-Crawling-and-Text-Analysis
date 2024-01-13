@@ -1,5 +1,3 @@
-# NLP Cource Project 2
-
 # Project Structure
 
 This project consists of the following parts:
